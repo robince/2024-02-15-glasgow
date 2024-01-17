@@ -202,13 +202,7 @@ special instructions.
 <p id="accessibility">
   <strong>Accessibility:</strong>
 {% if online == "false" %}
-  We are committed to making this workshop
-  accessible to everybody.  For workshops at a physical location, the workshop organizers have checked that:
-</p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
+  Unfortunately the venue at 62 Hillhead Street is not wheelchair accessible. 
 <p>
   Materials will be provided in advance of the workshop and
   large-print handouts are available if needed by notifying the
